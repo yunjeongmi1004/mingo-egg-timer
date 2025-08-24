@@ -90,4 +90,8 @@
 - swiper 플러그인을 사용하여 반응형 캐러셀 구현
 - css만으로 계란쿵야 UI를 구현하여 눈동자와 몸의 움직임 표현
 
-<br>
+# <br>
+
+# mingo-egg-timer
+
+> > > > > > > a2078ee9a15a262d55adcd5fddc9adbf02b49e6e
