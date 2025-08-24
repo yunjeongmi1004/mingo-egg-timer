@@ -1,1 +1,0 @@
-# mingo-egg-timer
